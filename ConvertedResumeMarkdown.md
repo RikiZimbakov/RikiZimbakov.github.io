@@ -1,5 +1,5 @@
 # **Risto Zimbakov**
-22 Sage Crescent R2Y 0X9  
+22 Sage Crescent | Winnipeg, MB | R2Y 0X9  
 Phone: (204) 960 7721  
 Email: zimbakor@myumanitoba.ca
 
