@@ -95,7 +95,7 @@ We will need a couple of important pieces before we can start making our resume:
 - Here is the GitHub Flavoured Markdown intro: https://github.github.com/gfm/
 
 ## **Authors and Acknowledgments**
-I want to thank my group members Jordan Portz and Jacob Macks for helping me create this assignment. A thank you to Christina Penner for the assignment and resources. Also, 
+I want to thank my group members Jordan Portz and Jacob Macks for helping me create this assignment. A thank you to Christina Penner for the assignment and resources. 
 
 ## **FAQs**
 Q: can I modify my Jekyll themed resume webpage any further?  
