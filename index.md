@@ -4,7 +4,7 @@ Phone: (204) 960 7721
 Email: zimbakor@myumanitoba.ca
 
 ## **Personal Profile:**   
-Highly motivated Computer Science student, with strong desire for achievement and success; has well-built in personal work ethic achieved through continuous commitment to work, school and sports goals. Mature, hardworking, reliable and friendly.Learning Java, C, C++, Ruby, Kotlin, and Prologue.
+Highly motivated Computer Science student, with strong desire for achievement and success; has well-built in personal work ethic achieved through continuous commitment to work, school and sports goals. Mature, hardworking, reliable and friendly. Learning Java, C, C++, Ruby, Kotlin, and Prologue.
 
 ## **Education**  
 Bachelor of Science, Computer Science Major (Co-op Option)  
