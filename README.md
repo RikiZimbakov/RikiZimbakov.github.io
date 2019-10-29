@@ -30,9 +30,9 @@ We will need a couple of important pieces before we can start making our resume:
 2.  Use index.md to convert your regular resume into a Markdown resume.
 3. Follow the Markdown conventions and if you forget what those are then go to [Markdown Tutorial](https://www.markdowntutorial.com/) again.
 4. To preview what your markdown resume will look like you can:
-  - simply click on the "packages" button at the top left of the Atom window
-  - scroll down to Markdown preview
-  - click on toggle preview
+    - simply click on the "packages" button at the top left of the Atom window
+    - scroll down to Markdown preview
+    - click on toggle preview
 5. If you are curious about how to add an element to your Markdown resume review the link in step 3
 6. Save your converted resume on your desktop.
 7. Way to go! Learning Markdown will be very helpful down the line.
